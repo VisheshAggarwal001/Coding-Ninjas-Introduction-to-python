@@ -1,0 +1,5 @@
+sub_1=int(input(""))
+sub_2=int(input(""))
+sub_3=int(input(""))
+Average_of_3_subjects=(sub_1+sub_2+sub_3)
+print(Average_of_3_subjects/3)
